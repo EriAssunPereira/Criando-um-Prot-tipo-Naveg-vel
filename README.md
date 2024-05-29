@@ -1,4 +1,4 @@
-# Criando-um-Protótipo-Navegável
+# Criando um Protótipo Navegável
 
 ## **Introdução**
 Este artigo é um guia prático para a criação de um protótipo navegável, uma ferramenta essencial no processo de design de experiência do usuário (UX). Vamos aplicar todos os conceitos envolvidos na criação de um protótipo, desde o wireframe até o mockup navegável.
